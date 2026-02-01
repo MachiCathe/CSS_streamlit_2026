@@ -24,7 +24,7 @@ st.image(
 )
 
 # Add a section for publications
-st.header("Atricles")
+st.header("Articles")
 uploaded_file = st.file_uploader("Climate Change and Rainwater Harvesting", type="csv")
 
 if uploaded_file:
